@@ -1,0 +1,23 @@
+- GitHub
+- Visual Studio Code
+- Projeto
+- HTML
+- CSS
+- JS
+
+ATALHOS WINDOWS 
+
+ WIN + D 			- (vai pra area de trabalho) 
+ WIN + Shift + S 		- (print da tela)
+ WIN + R 			- (executor de programas: notepad)
+ CNTRL + A 			- (Seleciona tudo)
+
+ATALHOS DE NAVEGADOR:
+
+CNTRL + T 			- (nova aba)
+CNTRL + W 			- (fechar aba)
+CNTRL + SHIT + T		- (Abrir a ultima aba que foi fechada) 
+CNTRL + TAB			- (Navegar entre as abas)
+
+
+Commit 22/08 - O QUE EU FIZ NO PROJETO
